@@ -404,7 +404,7 @@ Functional (Ordinal): Home functionality (Assume typical unless deductions are w
 		
 Fireplaces (Discrete): Number of fireplaces
 
-FireplaceQu (Ordinal): Fireplace quality
+Fireplace Qu (Ordinal): Fireplace quality
 
        Ex	Excellent - Exceptional Masonry Fireplace
        Gd	Good - Masonry Fireplace in main level
