@@ -41,10 +41,6 @@ Wymagania:
    -  Drzewa decyzyjne 
 *  Wykresy pokazujące zależność między cechami a ceną. 
 *  Ocena modeli (błąd średniokwadratowy, R²). 
-  
-Dataset: Zillow Housing Prices 
-(https://www.kaggle.com/datasets/paultimothymooney/zillow-house-price-data) lub 
-dane z lokalnych biur nieruchomości. 
 
 Oczekiwane rezultaty: Model przewidujący ceny mieszkań z niewielkim błędem i 
 analiza, który model działa najlepiej.
