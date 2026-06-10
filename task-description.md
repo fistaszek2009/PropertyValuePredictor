@@ -5,7 +5,8 @@ podlinkowane).
 *  Czyszczenie danych (usuwanie braków, usunięcie duplikatów, normalizacja, 
 standaryzacja itp.). 
 *  Wizualizacja danych (wykresy, tabele, analiza statystyczna). 
-2. Implementacja modeli i porównanie wyników 
+  
+1. Implementacja modeli i porównanie wyników 
 *  Wybór co najmniej dwóch metod rozwiązania problemu. 
 *  Podział danych na zbiór treningowy, walidacyjny i testowy. 
 *  Optymalizacja hiperparametrów (np. grid search, random search). 
@@ -13,16 +14,18 @@ standaryzacja itp.).
 itd.). 
 *  Wykresy ilustrujące działanie modeli (np. krzywa ROC, macierz pomyłek, regresja 
 liniowa na wykresie). 
-3. Wnioski i analiza rezultatów 
+
+1. Wnioski i analiza rezultatów 
 *  Podsumowanie wyników eksperymentów. 
 *  Porównanie skuteczności metod i uzasadnienie, która działa najlepiej. 
 *  Możliwe ulepszenia modeli (np. tuning hiperparametrów, użycie większego zbioru 
 danych). 
-4. Dokumentacja projektu 
+
+1. Dokumentacja projektu 
 *  Opis problemu i jego znaczenia. 
 *  Szczegółowe wyjaśnienie wykorzystanych metod. 
 *  Opis procesu implementacji i przetwarzania danych. 
-5. Prezentacja wyników 
+1. Prezentacja wyników 
 *  Przygotowanie prezentacji (np. w PowerPoint, Google Slides). 
 *  Omówienie celów projektu, metodologii i uzyskanych wyników. 
 *  Wizualizacje (np. wykresy, przykładowe predykcje modelu). 
