@@ -1,2 +1,2 @@
-# flat-price
-ML model predicting flat price.
+# House-price
+ML model predicting property price.
