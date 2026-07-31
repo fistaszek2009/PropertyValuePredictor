@@ -4,16 +4,40 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37726?logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-Scikit%20learn-3499CD?logo=scikitlearn&logoColor=white)
 
----
 
-> Predicting property prices with machine learning using the Ames Housing Dataset.
-A machine learning project created as part of the AI Circle at Jagiellonian University.
-The goal was to build and compare multiple regression models capable of estimating residential property prices based on 79 characteristics describing each house.
+Predicting property prices with machine learning using the **Ames Housing Dataset**. 
+I have created this project as task for the AI club at Jagiellonian University.
+The goal was to build and compare multiple models capable of estimating residential property prices based on 79 characteristics describing each house.
 
-## Dataset
+## Dataset - Ames Housing
 ## Models
-## Results
-## Instalation
+## Results - Project summary
+
+## Instalation and setup
+1. **Clone repository from Github**
+    ```
+    git clone https://github.com/fistaszek2009/PropertyValuePredictor
+    cd PropertyValuePredictor
+    ```
+2. **Create a virtual environment and install dependencies**
+   
+   Linux / macOS:
+    ```console
+    python -m venv .venv
+    . .venv/bin/activate
+    pip install -r requirements.txt
+    ```
+
+    Windows:
+    ```console
+    python -m venv .venv
+    .venv\Scripts\activate
+    pip install -r requirements.txt
+    ```
+3. **Open notebook**
+   - ```solve-eng.ipynb```
+   - ```solve-pol.ipynb```
+
 
 ## Project structure
 ```console
@@ -34,4 +58,3 @@ PropertyValuePredictor/
 └── .gitignore
 ```
 
-## Project summary
