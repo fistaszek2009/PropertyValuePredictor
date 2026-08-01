@@ -40,7 +40,7 @@ You may notice that I didn't use the most common metrics. This is due to the spe
 ## Installation and setup
 1. **Clone the repository from GitHub**
     ```
-    git clone ...
+    git clone https://github.com/fistaszek2009/PropertyValuePredictor
     cd PropertyValuePredictor
     ```
 2. **Create a virtual environment and install dependencies**
