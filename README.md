@@ -35,6 +35,8 @@ I'm pleased with the project's results. *Human appraisers who evaluate homes are
 
 You may notice that I didn't use the most common metrics. This is due to the specific nature of the data I was working with. Plain MSE was too large in scale (prices squared, ~20000²), so I decided to use RMSE and MAE instead, which stay in dollar terms and are easier to interpret. I also measured performance using RMSE on log-transformed `y_true` and `y_pred` — that's RMSLE. This shows not how many dollars the prediction is off by on average, but roughly what percentage it's off by. R² is likewise calculated on log-transformed `y`, which gives the metric more stability; otherwise, one large misprediction would destabilize the result significantly. Finally, I also computed R² and RMSLE via cross-validation, for a more reliable estimate of generalization performance.
 
+![image](./best-model-results.png)
+
 ## Installation and setup
 1. **Clone the repository from GitHub**
     ```
